@@ -1,4 +1,4 @@
-# 🎬 PVR Booking Monitor – Chennai
+# 🎬 PVR Booking Monitor – Chennai 🍿
 
 **Never miss your perfect show again.**
 Monitor PVR Chennai cinema bookings effortlessly and get **real-time alerts** via Telegram, desktop notifications, and sound — now with **hyper-specific filters**.
@@ -171,5 +171,6 @@ All activity will be logged in the **Activity Logs** panel.
 ## 🧑‍💻 Developer
 
 Built with ❤️ by **Suresh**
+
 Contributions, feature suggestions, and feedback are welcome!
 
